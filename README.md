@@ -16,6 +16,10 @@
 
 	Abs e Interf
 
+	Excepciones
+
+	Concurrencia
+
 	Lectura y Escritura
 
 	Cierre
@@ -35,6 +39,14 @@
 	Contaminación Ámbiente
 
 	Empezar por el error, no por el flujo
+
+	Breakpoints
+
+	Logging
+
+	Stack Trace
+
+	Test
 
 	Qué debería hacer
 
